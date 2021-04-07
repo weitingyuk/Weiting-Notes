@@ -75,6 +75,8 @@
 - [x] [进程和线程之间有什么区别](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-03-16/Process&Thread.md)
 - [x] [进程间有哪些通信方式？](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-06/Message.md)
 - [x] [为什么进程切换慢，线程切换快？](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-06/Process&ThreadSwitch.md)
+- [x] [简述 Linux 虚拟内存的页面置换算法](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-07/PageChange.md)
+- [x] [多线程和多进程的区别是什么？](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-07/MultiPro&Threads.md)
 
 ### 系统设计
 - [x] [电商系统中，如何实现秒杀功能？如何解决商品的超卖问题？](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-03-22/SecKill.md)
