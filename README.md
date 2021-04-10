@@ -17,6 +17,7 @@
 - [x] [Java 是如何实现线程安全的，哪些数据结构是线程安全的？](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-02-07/Thread-Safety.md)
 - [x] [简述 HashSet 实现原理](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-05/HashSet.md)
 - [x] [ConcurrentHashMap 的实现原理](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-03-14/ConcurrentHashMap.md)
+- [x] [SynchronousQueue和LinkedTransferQueue区别](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-09/SynchronousQueue&LinkedTransferQueue.md)
 - [x] [JVM 中内存模型是怎样的，简述新生代与老年代的区别？](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-02-03/Model.md)
 - [x] [Java 中垃圾回收机制中如何判断对象需要回收和常见的 GC 回收算法有哪些](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-02-02/GC.md)
 - [x] [JVM 是怎么去调优的？简述过程和调优的结果](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-02-18/JVM-FineTuning.md)
@@ -26,6 +27,7 @@
 - [x] [简述 Java 的反射机制及其应用场景](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-02-06/Reflection.md)
 - [x] [线程池是如何实现的？简述线程池的任务策略](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-08/ThreadPool.md)
 - [x] [Java 的线程有哪些状态，转换关系是怎么样的？](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-03/ThreadStates.md)
+- [x] [Java 线程间有多少通信方式？](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-10/ThreadMsg.md)
 - [x] [什么是重写和重载？](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-01/Override&Overwrite.md)
 - [x] [ThreadLocal 实现原理是什么](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-03-31/ThreadLocal.md)
 - [x] [实现单例设计模式](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-02-05/Singleton.md)
@@ -39,7 +41,8 @@
 - [x] [Spring MVC 的原理和流程](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-02-19/SpringMVC.md)
 - [x] [简述 Spring AOP 的原理](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-02-04/AOP.md)
 - [x] [线程池是如何实现的？简述线程池的任务策略](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-02-20/ThreadPool.md)
-
+- [x] [简述伪共享](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-09/FalseSharing.md)
+- [x] [简述原子操作的原理](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-09/Atomic.md)
 
 ### 网络协议
 - [x] [从输入 URL 到展现页面的全过程](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-03-29/URL.md)
@@ -77,6 +80,7 @@
 - [x] [为什么进程切换慢，线程切换快？](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-06/Process&ThreadSwitch.md)
 - [x] [简述 Linux 虚拟内存的页面置换算法](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-07/PageChange.md)
 - [x] [多线程和多进程的区别是什么？](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-07/MultiPro&Threads.md)
+
 
 ### 系统设计
 - [x] [电商系统中，如何实现秒杀功能？如何解决商品的超卖问题？](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-03-22/SecKill.md)
