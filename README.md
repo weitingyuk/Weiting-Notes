@@ -87,6 +87,7 @@
 - [x] [什么是 CAP ？什么是最终一致性？什么是幂等操作？](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-03-21/CAP.md)
 - [x] [简述常见的负载均衡算法](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-05/LB.md)
 - [x] [简述中间件削峰和限流的使用场景](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-04/CurrentLimiting.md)
+- [x] [常用的限流算法有哪些？简述令牌桶算法原理](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-11/Limiter.md)
 - [x] [如何实现唯一的分布式 ID](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-04-02/DistributedID.md)
 - [x] [简述 Zookeeper 基础原理以及使用场景](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-03-22/ZK.md)
 - [x] [简述一致性哈希算法的实现方式及原理](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-03-03/ConsistentHash.md)
